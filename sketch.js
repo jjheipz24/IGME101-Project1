@@ -1,7 +1,7 @@
 /*
 Jin Jin Heipler 
 9/18/17
-IGME-101: ICE 4a
+IGME-101: Project 1
 */
 
 var myTurtle; //declare a variable for our Turtle
